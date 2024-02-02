@@ -50,7 +50,7 @@ int main() {
         break;
 
     default:
-    printf("Ingresa una opción válida. \n");
+    printf("Ingresa una opción válida, pedazo de imbecil. \n");
         break;
     }
 
