@@ -14,7 +14,7 @@ int main(){
     printf("Actualmente tengo 18 años. \n");
     printf("Soy de Jalostotitlán, Jalisco, México. \n");
     printf("El día de hoy es Martes 30 de Enero de 2024. \n");
-    printf("Estoy estudiando la carrera de Ingeniería en Computación. \n");
+    printf("Estoy estudiando la carrera de Ingeniería en Computación. \n")
     printf("Actualmente estoy cursando el segundo semestre de la carrera. \n");
 
     return 0;
