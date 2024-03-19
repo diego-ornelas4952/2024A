@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/diegoornelas/Desktop/2024A/output/matriz'
+relocations:
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _matriz1, symObjAddr: 0x80, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x74, offset: 0x74, size: 0x8, addend: 0x0, symName: _columnas, symObjAddr: 0x52DC, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0x89, offset: 0x89, size: 0x8, addend: 0x0, symName: _first_num, symObjAddr: 0x52E0, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offsetInCU: 0x2CB0, offset: 0x2CB0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F0C, symSize: 0x3C }
+...
